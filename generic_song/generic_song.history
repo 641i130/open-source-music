@@ -1,72 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1629862687" tv-usec="775734" name="copy objects">
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="1496" left-frame="0" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="4614"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="1496" left-frame="0" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="4614"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1629862687" tv-usec="967373" name="paste">
-    <StatefulDiffCommand obj-id="3852" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="4707"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="1496" left-frame="0" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="4614"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="1496" left-frame="0" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="4614"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1629862689" tv-usec="338185" name="region drag">
-    <StatefulDiffCommand obj-id="4707" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <position from="2082462" to="2126769"/>
-        <beat from="47.000010416666669" to="47.999994791666666"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="1496" left-frame="0" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="4707"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="1496" left-frame="0" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="4707"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1629862693" tv-usec="23958" name="copy objects">
     <MementoCommand obj-id="46" type-name="SelectionMemento">
       <SelectionMemento mouse-mode="MouseObject" zoom="1496" left-frame="1598476" y-origin="0">
@@ -239,11 +172,11 @@
     <StatefulDiffCommand obj-id="3852" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="4839"/>
-          <Add id="4825"/>
-          <Add id="4846"/>
           <Add id="4818"/>
+          <Add id="4825"/>
           <Add id="4832"/>
+          <Add id="4839"/>
+          <Add id="4846"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -377,10 +310,10 @@
     <StatefulDiffCommand obj-id="4287" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="4914"/>
-          <Add id="4907"/>
-          <Add id="4921"/>
           <Add id="4900"/>
+          <Add id="4907"/>
+          <Add id="4914"/>
+          <Add id="4921"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -545,5 +478,243 @@
         </Selection>
       </SelectionMemento>
     </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1629949734" tv-usec="500669" name="capture">
+    <StatefulDiffCommand obj-id="4514" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="5920"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1629950646" tv-usec="798273" name="quantize">
+    <NoteDiffCommand midi-source="5622">
+      <ChangedNotes>
+        <Change property="StartTime" old="16.213541666666668" new="16" id="364737"/>
+        <Change property="StartTime" old="19.989583333333332" new="20" id="364738"/>
+        <Change property="StartTime" old="21.979166666666668" new="22" id="364741"/>
+        <Change property="StartTime" old="24.082291666666666" new="24" id="364742"/>
+        <Change property="StartTime" old="28.214583333333334" new="28" id="364744"/>
+        <Change property="StartTime" old="30.401041666666668" new="30.5" id="364746"/>
+        <Change property="StartTime" old="31.3515625" new="31.5" id="364748"/>
+        <Change property="StartTime" old="32.399999999999999" new="32.5" id="364751"/>
+        <Change property="StartTime" old="36.28125" new="36.5" id="364752"/>
+        <Change property="StartTime" old="38.150520833333331" new="38" id="364755"/>
+        <Change property="StartTime" old="39.149479166666666" new="39" id="364756"/>
+        <Change property="StartTime" old="40.135416666666664" new="40" id="364759"/>
+        <Change property="StartTime" old="43.283333333333331" new="43.5" id="364761"/>
+        <Change property="StartTime" old="44.286979166666669" new="44.5" id="364762"/>
+        <Change property="StartTime" old="46.44947916666667" new="46.5" id="364764"/>
+        <Change property="StartTime" old="50.115104166666669" new="50" id="364767"/>
+        <Change property="StartTime" old="51.020833333333336" new="51" id="364768"/>
+        <Change property="StartTime" old="52.002083333333331" new="52" id="364771"/>
+        <Change property="StartTime" old="53.572916666666664" new="53.5" id="364772"/>
+        <Change property="StartTime" old="54.983854166666667" new="55" id="364774"/>
+        <Change property="StartTime" old="55.923437499999999" new="56" id="364777"/>
+        <Change property="StartTime" old="58.872916666666669" new="59" id="364778"/>
+        <Change property="StartTime" old="59.934375000000003" new="60" id="364781"/>
+        <Change property="StartTime" old="61.75" new="62" id="364782"/>
+        <Change property="StartTime" old="63.100000000000001" new="63" id="364785"/>
+        <Change property="StartTime" old="64.048437500000006" new="64" id="364786"/>
+        <Change property="StartTime" old="67.044791666666669" new="67" id="364789"/>
+        <Change property="StartTime" old="68.0703125" new="68" id="364790"/>
+        <Change property="StartTime" old="69.654166666666669" new="69.5" id="364792"/>
+        <Change property="StartTime" old="71.198958333333337" new="71" id="364795"/>
+        <Change property="StartTime" old="72.167708333333337" new="72" id="364796"/>
+        <Change property="StartTime" old="75.220312500000006" new="75" id="364799"/>
+        <Change property="StartTime" old="76.136458333333337" new="76" id="364800"/>
+        <Change property="StartTime" old="80.272395833333334" new="80.5" id="364802"/>
+        <Change property="StartTime" old="83.276041666666671" new="83.5" id="364804"/>
+        <Change property="StartTime" old="84.321875000000006" new="84.5" id="364807"/>
+        <Change property="StartTime" old="85.660937500000003" new="85.5" id="364809"/>
+        <Change property="StartTime" old="87.108333333333334" new="87" id="364810"/>
+        <Change property="StartTime" old="88.07864583333334" new="88" id="364813"/>
+        <Change property="StartTime" old="91.067187500000003" new="91" id="364814"/>
+        <Change property="StartTime" old="92.068229166666669" new="92" id="364816"/>
+        <Change property="StartTime" old="93.60208333333334" new="93.5" id="364818"/>
+        <Change property="StartTime" old="95.09427083333334" new="95" id="364821"/>
+        <Change property="StartTime" old="96.07864583333334" new="96" id="364822"/>
+        <Change property="StartTime" old="99.222395833333337" new="99" id="364825"/>
+        <Change property="StartTime" old="100.20989583333333" new="100" id="364826"/>
+        <Change property="StartTime" old="103.41875" new="103.5" id="364828"/>
+        <Change property="StartTime" old="104.48020833333334" new="104.5" id="364830"/>
+        <Change property="StartTime" old="105.765625" new="106" id="364832"/>
+        <Change property="StartTime" old="107.30833333333334" new="107.5" id="364835"/>
+        <Change property="StartTime" old="108.3203125" new="108.5" id="364837"/>
+        <Change property="StartTime" old="112.32187500000001" new="112.5" id="364838"/>
+        <Change property="StartTime" old="115.24010416666667" new="115" id="364840"/>
+        <Change property="StartTime" old="116.18229166666667" new="116" id="364842"/>
+        <Change property="StartTime" old="119.09947916666667" new="119" id="364844"/>
+        <Change property="StartTime" old="120.11093750000001" new="120" id="364847"/>
+        <Change property="StartTime" old="123.11614583333333" new="123" id="364848"/>
+        <Change property="StartTime" old="124.14739583333333" new="124" id="364850"/>
+        <Change property="StartTime" old="128.1796875" new="128" id="364852"/>
+        <Change property="StartTime" old="131.01979166666666" new="131" id="364855"/>
+        <Change property="StartTime" old="132.11875000000001" new="132" id="364856"/>
+        <Change property="StartTime" old="134.12291666666667" new="134" id="364858"/>
+        <Change property="StartTime" old="136.09375" new="136" id="364860"/>
+        <Change property="StartTime" old="140.19739583333333" new="140" id="364862"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="46" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="3425" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="5920"/>
+          </Regions>
+          <MIDINotes region-id="5920">
+            <note note-id="364826"/>
+            <note note-id="364748"/>
+            <note note-id="364738"/>
+            <note note-id="364761"/>
+            <note note-id="364762"/>
+            <note note-id="364764"/>
+            <note note-id="364767"/>
+            <note note-id="364768"/>
+            <note note-id="364771"/>
+            <note note-id="364772"/>
+            <note note-id="364774"/>
+            <note note-id="364777"/>
+            <note note-id="364778"/>
+            <note note-id="364781"/>
+            <note note-id="364782"/>
+            <note note-id="364785"/>
+            <note note-id="364786"/>
+            <note note-id="364789"/>
+            <note note-id="364790"/>
+            <note note-id="364792"/>
+            <note note-id="364795"/>
+            <note note-id="364796"/>
+            <note note-id="364746"/>
+            <note note-id="364744"/>
+            <note note-id="364802"/>
+            <note note-id="364742"/>
+            <note note-id="364741"/>
+            <note note-id="364737"/>
+            <note note-id="364751"/>
+            <note note-id="364752"/>
+            <note note-id="364838"/>
+            <note note-id="364755"/>
+            <note note-id="364756"/>
+            <note note-id="364759"/>
+            <note note-id="364799"/>
+            <note note-id="364800"/>
+            <note note-id="364804"/>
+            <note note-id="364807"/>
+            <note note-id="364809"/>
+            <note note-id="364810"/>
+            <note note-id="364813"/>
+            <note note-id="364814"/>
+            <note note-id="364816"/>
+            <note note-id="364818"/>
+            <note note-id="364821"/>
+            <note note-id="364822"/>
+            <note note-id="364825"/>
+            <note note-id="364828"/>
+            <note note-id="364830"/>
+            <note note-id="364832"/>
+            <note note-id="364835"/>
+            <note note-id="364837"/>
+            <note note-id="364840"/>
+            <note note-id="364842"/>
+            <note note-id="364844"/>
+            <note note-id="364847"/>
+            <note note-id="364848"/>
+            <note note-id="364850"/>
+            <note note-id="364852"/>
+            <note note-id="364855"/>
+            <note note-id="364856"/>
+            <note note-id="364858"/>
+            <note note-id="364860"/>
+            <note note-id="364862"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="3425" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="5920"/>
+          </Regions>
+          <MIDINotes region-id="5920">
+            <note note-id="364826"/>
+            <note note-id="364748"/>
+            <note note-id="364738"/>
+            <note note-id="364761"/>
+            <note note-id="364762"/>
+            <note note-id="364764"/>
+            <note note-id="364767"/>
+            <note note-id="364768"/>
+            <note note-id="364771"/>
+            <note note-id="364772"/>
+            <note note-id="364774"/>
+            <note note-id="364777"/>
+            <note note-id="364778"/>
+            <note note-id="364781"/>
+            <note note-id="364782"/>
+            <note note-id="364785"/>
+            <note note-id="364786"/>
+            <note note-id="364789"/>
+            <note note-id="364790"/>
+            <note note-id="364792"/>
+            <note note-id="364795"/>
+            <note note-id="364796"/>
+            <note note-id="364746"/>
+            <note note-id="364744"/>
+            <note note-id="364802"/>
+            <note note-id="364742"/>
+            <note note-id="364741"/>
+            <note note-id="364737"/>
+            <note note-id="364751"/>
+            <note note-id="364752"/>
+            <note note-id="364838"/>
+            <note note-id="364755"/>
+            <note note-id="364756"/>
+            <note note-id="364759"/>
+            <note note-id="364799"/>
+            <note note-id="364800"/>
+            <note note-id="364804"/>
+            <note note-id="364807"/>
+            <note note-id="364809"/>
+            <note note-id="364810"/>
+            <note note-id="364813"/>
+            <note note-id="364814"/>
+            <note note-id="364816"/>
+            <note note-id="364818"/>
+            <note note-id="364821"/>
+            <note note-id="364822"/>
+            <note note-id="364825"/>
+            <note note-id="364828"/>
+            <note note-id="364830"/>
+            <note note-id="364832"/>
+            <note note-id="364835"/>
+            <note note-id="364837"/>
+            <note note-id="364840"/>
+            <note note-id="364842"/>
+            <note note-id="364844"/>
+            <note note-id="364847"/>
+            <note note-id="364848"/>
+            <note note-id="364850"/>
+            <note note-id="364852"/>
+            <note note-id="364855"/>
+            <note note-id="364856"/>
+            <note note-id="364858"/>
+            <note note-id="364860"/>
+            <note note-id="364862"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1630039212" tv-usec="909956" name="capture">
+    <StatefulDiffCommand obj-id="6884" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="6893"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
   </UndoTransaction>
 </UndoHistory>
