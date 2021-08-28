@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="generic_song" sample-rate="96000" end-is-free="1" session-range-is-free="1" id-counter="6898" name-counter="1" event-counter="378772" vca-counter="1">
+<Session version="6000" name="generic_song" sample-rate="96000" end-is-free="1" session-range-is-free="1" id-counter="10683" name-counter="1" event-counter="424033" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9" modified-with="Ardour 6.9"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -122,6 +122,35 @@
     <Source name="ZynAddSubFX-35.mid" take-id="" type="midi" flags="Writable,CanRename" id="5015" natural-position="346368" origin=""/>
     <Source name="ZynAddSubFX-3.mid" take-id="2021-08-25 22.48.54" type="midi" flags="Writable,CanRename" id="5622" natural-position="0" captured-for="ZynAddSubFX" origin=""/>
     <Source name="Some Melody IDK-3.mid" take-id="2021-08-26 23.40.12" type="midi" flags="Writable,CanRename" id="6886" natural-position="0" captured-for="Some Melody IDK" origin=""/>
+    <Source name="Some Melody IDK-4.mid" take-id="2021-08-27 09.13.54" type="midi" flags="Writable,CanRename" id="7798" natural-position="0" captured-for="Some Melody IDK" origin=""/>
+    <Source name="Wind-2.mid" take-id="" type="midi" flags="Writable,CanRename,Removable,RemovableIfEmpty,Empty" id="10249" origin=""/>
+    <Source name="Wind-3.mid" take-id="" type="midi" flags="Writable,CanRename" id="10258" origin=""/>
+    <Source name="ZynAddSubFX 1-27.mid" take-id="" type="midi" flags="Writable,CanRename" id="10375" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-28.mid" take-id="" type="midi" flags="Writable,CanRename" id="10382" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-29.mid" take-id="" type="midi" flags="Writable,CanRename" id="10389" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-30.mid" take-id="" type="midi" flags="Writable,CanRename" id="10396" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-31.mid" take-id="" type="midi" flags="Writable,CanRename" id="10403" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-32.mid" take-id="" type="midi" flags="Writable,CanRename" id="10410" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-33.mid" take-id="" type="midi" flags="Writable,CanRename" id="10417" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-34.mid" take-id="" type="midi" flags="Writable,CanRename" id="10424" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-35.mid" take-id="" type="midi" flags="Writable,CanRename" id="10431" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-36.mid" take-id="" type="midi" flags="Writable,CanRename" id="10438" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX-36.mid" take-id="" type="midi" flags="Writable,CanRename" id="10510" natural-position="346368" origin=""/>
+    <Source name="ZynAddSubFX-37.mid" take-id="" type="midi" flags="Writable,CanRename" id="10517" natural-position="346368" origin=""/>
+    <Source name="ZynAddSubFX-38.mid" take-id="" type="midi" flags="Writable,CanRename" id="10524" natural-position="346368" origin=""/>
+    <Source name="ZynAddSubFX-39.mid" take-id="" type="midi" flags="Writable,CanRename" id="10531" natural-position="346368" origin=""/>
+    <Source name="ZynAddSubFX-40.mid" take-id="" type="midi" flags="Writable,CanRename" id="10540" natural-position="346368" origin=""/>
+    <Source name="ZynAddSubFX-41.mid" take-id="" type="midi" flags="Writable,CanRename" id="10547" natural-position="346368" origin=""/>
+    <Source name="ZynAddSubFX-42.mid" take-id="" type="midi" flags="Writable,CanRename" id="10554" natural-position="346368" origin=""/>
+    <Source name="ZynAddSubFX-43.mid" take-id="" type="midi" flags="Writable,CanRename" id="10561" natural-position="346368" origin=""/>
+    <Source name="ZynAddSubFX 1-37.mid" take-id="" type="midi" flags="Writable,CanRename" id="10593" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-38.mid" take-id="" type="midi" flags="Writable,CanRename" id="10600" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-39.mid" take-id="" type="midi" flags="Writable,CanRename" id="10607" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-40.mid" take-id="" type="midi" flags="Writable,CanRename" id="10614" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-41.mid" take-id="" type="midi" flags="Writable,CanRename" id="10623" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-42.mid" take-id="" type="midi" flags="Writable,CanRename" id="10630" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-43.mid" take-id="" type="midi" flags="Writable,CanRename" id="10637" natural-position="0" origin=""/>
+    <Source name="ZynAddSubFX 1-44.mid" take-id="" type="midi" flags="Writable,CanRename" id="10644" natural-position="0" origin=""/>
   </Sources>
   <Regions>
     <Region name="Noise-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5970048" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="82.917333333333332" id="2960" type="midi" first-edit="nothing" source-0="2954" master-source-0="2954"/>
@@ -160,12 +189,26 @@
     <Region name="ZynAddSubFX-33.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="8241231" beat="186.00000520833336" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="4991" type="midi" first-edit="nothing" source-0="4989" master-source-0="4989"/>
     <Region name="ZynAddSubFX-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6572928" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="148.34733333333332" id="5917" type="midi" first-edit="nothing" source-0="5622" master-source-0="5622"/>
     <Region name="Some Melody IDK-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5659648" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="127.7351111111111" id="6890" type="midi" first-edit="nothing" source-0="6886" master-source-0="6886"/>
+    <Region name="Some Melody IDK-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7230208" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="163.18177777777777" id="7802" type="midi" first-edit="nothing" source-0="7798" master-source-0="7798"/>
+    <Region name="Wind-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="22154" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="0.5" id="10251" type="midi" first-edit="nothing" source-0="10249" master-source-0="10249"/>
+    <Region name="ZynAddSubFX 1-27.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10377" type="midi" first-edit="nothing" source-0="10375" master-source-0="10375"/>
+    <Region name="ZynAddSubFX 1-28.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="708923" beat="15.999998263888889" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10384" type="midi" first-edit="nothing" source-0="10382" master-source-0="10382"/>
+    <Region name="ZynAddSubFX 1-29.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="1417846" beat="31.999996527777778" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10391" type="midi" first-edit="nothing" source-0="10389" master-source-0="10389"/>
+    <Region name="ZynAddSubFX 1-30.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="2126769" beat="47.999994791666666" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10398" type="midi" first-edit="nothing" source-0="10396" master-source-0="10396"/>
+    <Region name="ZynAddSubFX 1-31.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="2835692" beat="63.999993055555557" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10405" type="midi" first-edit="nothing" source-0="10403" master-source-0="10403"/>
+    <Region name="ZynAddSubFX 1-32.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="3544615" beat="79.999991319444447" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10412" type="midi" first-edit="nothing" source-0="10410" master-source-0="10410"/>
+    <Region name="ZynAddSubFX 1-33.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="4253538" beat="95.999989583333331" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10419" type="midi" first-edit="nothing" source-0="10417" master-source-0="10417"/>
+    <Region name="ZynAddSubFX 1-34.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="4962461" beat="111.99998784722223" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10426" type="midi" first-edit="nothing" source-0="10424" master-source-0="10424"/>
+    <Region name="ZynAddSubFX 1-35.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="5671384" beat="127.99998611111111" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10433" type="midi" first-edit="nothing" source-0="10431" master-source-0="10431"/>
+    <Region name="ZynAddSubFX 1-36.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="6380307" beat="143.999984375" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10440" type="midi" first-edit="nothing" source-0="10438" master-source-0="10438"/>
+    <Region name="ZynAddSubFX-36.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10512" type="midi" first-edit="nothing" source-0="10510" master-source-0="10510"/>
+    <Region name="ZynAddSubFX-37.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="708923" beat="15.999998263888889" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10519" type="midi" first-edit="nothing" source-0="10517" master-source-0="10517"/>
+    <Region name="ZynAddSubFX-38.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="1417846" beat="31.999996527777778" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10526" type="midi" first-edit="nothing" source-0="10524" master-source-0="10524"/>
+    <Region name="ZynAddSubFX-39.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="2126769" beat="47.999994791666666" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10533" type="midi" first-edit="nothing" source-0="10531" master-source-0="10531"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="4469" control="0" order="0"/>
-  </Selection>
+  <Selection/>
   <Locations>
-    <Location id="2966" name="session" start="0" end="8950153" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1629666708"/>
+    <Location id="2966" name="session" start="0" end="10065899" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1629666708"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -180,11 +223,13 @@
           <Connection other="Bass/audio_out 1"/>
           <Connection other="Some Melody IDK/audio_out 1"/>
           <Connection other="Synthy Chords/audio_out 1"/>
+          <Connection other="Wind/audio_out 1"/>
         </Port>
         <Port type="audio" name="Master/audio_in 2">
           <Connection other="Bass/audio_out 2"/>
           <Connection other="Some Melody IDK/audio_out 2"/>
           <Connection other="Synthy Chords/audio_out 2"/>
+          <Connection other="Wind/audio_out 2"/>
         </Port>
       </IO>
       <IO name="Master" id="2089" direction="Output" default-type="audio">
@@ -239,7 +284,7 @@
       <Processor id="2093" name="meter-Master" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Slavable/>
     </Route>
-    <Route version="6000" id="3807" name="Synthy Chords" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOCustom" meter-type="MeterPeak" midi-playlist="3852" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="0" restore-pgm="1">
+    <Route version="6000" id="3807" name="Synthy Chords" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOCustom" meter-type="MeterPeak" midi-playlist="3852" saved-meter-point="MeterPostFader" alignment-choice="UseExistingMaterial" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="0" restore-pgm="1">
       <PresentationInfo order="1" flags="MidiTrack,OrderSet" color="3024418303"/>
       <Controllable name="solo" id="3815" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="3821" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -361,9 +406,15 @@
       </Processor>
       <Processor id="3837" name="Amp" active="1" user-latency="0" use-user-latency="0" type="amp">
         <Automation>
-          <AutomationList automation-id="gain" id="3810" interpolation-style="Exponential" state="Off"/>
+          <AutomationList automation-id="gain" id="3810" interpolation-style="Exponential" state="Play">
+            <events>0 0.22798332571983337
+531692 2
+9216000 2
+9924923 0
+</events>
+          </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="3811" flags="GainLike" value="1"/>
+        <Controllable name="gaincontrol" id="3811" flags="GainLike" value="0"/>
       </Processor>
       <Processor id="3841" name="meter-ZynAddSubFX 1" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="3842" name="Synthy Chords" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Synthy Chords" type="main-outs" role="Main">
@@ -509,7 +560,7 @@
       <Controllable name="rec-safe" id="4284" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="4282" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="4469" name="Some Melody IDK" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" midi-playlist="6884" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1" restore-pgm="1">
+    <Route version="6000" id="4469" name="Some Melody IDK" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" midi-playlist="7796" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1" restore-pgm="1">
       <PresentationInfo order="3" flags="MidiTrack,OrderSet" color="1927660543"/>
       <Controllable name="solo" id="4477" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4483" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -646,6 +697,143 @@
       <Controllable name="rec-safe" id="4511" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="4509" flags="Toggle,RealTime" value="1"/>
     </Route>
+    <Route version="6000" id="8157" name="Wind" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" midi-playlist="8202" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="0" restore-pgm="1">
+      <PresentationInfo order="4" flags="MidiTrack,OrderSet" color="1927276031"/>
+      <Controllable name="solo" id="8165" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="8171" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="8173" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Wind" id="8185" direction="Input" default-type="midi">
+        <Port type="midi" name="Wind/midi_in 1">
+          <Connection other="a2j:Launchkey MK2 49 [28] (capture): Launchkey MK2 49 Launchkey MIDI"/>
+        </Port>
+      </IO>
+      <IO name="Wind" id="8186" direction="Output" default-type="midi">
+        <Port type="audio" name="Wind/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Wind/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Wind/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="8167" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="8169" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="8164" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="8170" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="8172" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="8166" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="8196" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="8198" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="8168" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="8200" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="8176" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="8180" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="8178" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="8182" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="8184" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="8175" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="8177" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="8179" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="8181" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="8183" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="8195" name="recorder:Wind" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="8194" name="player:Wind" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="8188" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
+      <Processor id="8248" name="ZynAddSubFX" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://zynaddsubfx.sourceforge.net" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="8249" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="8251" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="8253" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="8255" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="8257" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="8259" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="8261" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="8263" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="8265" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="8267" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="8269" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="8271" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="8273" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="8275" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="8277" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="8279" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state2">
+          <Port symbol="slot1" value="0"/>
+          <Port symbol="slot2" value="0"/>
+          <Port symbol="slot3" value="0"/>
+          <Port symbol="slot4" value="0"/>
+          <Port symbol="slot5" value="0"/>
+          <Port symbol="slot6" value="0"/>
+          <Port symbol="slot7" value="0"/>
+          <Port symbol="slot8" value="0"/>
+          <Port symbol="slot9" value="0"/>
+          <Port symbol="slot10" value="0"/>
+          <Port symbol="slot11" value="0"/>
+          <Port symbol="slot12" value="0"/>
+          <Port symbol="slot13" value="0"/>
+          <Port symbol="slot14" value="0"/>
+          <Port symbol="slot15" value="0"/>
+          <Port symbol="slot16" value="0"/>
+        </lv2>
+        <Controllable name="Slot 1" id="8250" flags="" value="0" parameter="4" symbol="slot1"/>
+        <Controllable name="Slot 2" id="8252" flags="" value="0" parameter="5" symbol="slot2"/>
+        <Controllable name="Slot 3" id="8254" flags="" value="0" parameter="6" symbol="slot3"/>
+        <Controllable name="Slot 4" id="8256" flags="" value="0" parameter="7" symbol="slot4"/>
+        <Controllable name="Slot 5" id="8258" flags="" value="0" parameter="8" symbol="slot5"/>
+        <Controllable name="Slot 6" id="8260" flags="" value="0" parameter="9" symbol="slot6"/>
+        <Controllable name="Slot 7" id="8262" flags="" value="0" parameter="10" symbol="slot7"/>
+        <Controllable name="Slot 8" id="8264" flags="" value="0" parameter="11" symbol="slot8"/>
+        <Controllable name="Slot 9" id="8266" flags="" value="0" parameter="12" symbol="slot9"/>
+        <Controllable name="Slot 10" id="8268" flags="" value="0" parameter="13" symbol="slot10"/>
+        <Controllable name="Slot 11" id="8270" flags="" value="0" parameter="14" symbol="slot11"/>
+        <Controllable name="Slot 12" id="8272" flags="" value="0" parameter="15" symbol="slot12"/>
+        <Controllable name="Slot 13" id="8274" flags="" value="0" parameter="16" symbol="slot13"/>
+        <Controllable name="Slot 14" id="8276" flags="" value="0" parameter="17" symbol="slot14"/>
+        <Controllable name="Slot 15" id="8278" flags="" value="0" parameter="18" symbol="slot15"/>
+        <Controllable name="Slot 16" id="8280" flags="" value="0" parameter="19" symbol="slot16"/>
+      </Processor>
+      <Processor id="8187" name="Amp" active="1" user-latency="0" use-user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="8160" interpolation-style="Exponential" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="8161" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="8191" name="meter-ZynAddSubFX" active="1" user-latency="0" use-user-latency="0" type="meter"/>
+      <Processor id="8192" name="Wind" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Wind" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="8201" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="8199" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="8197" flags="Toggle,RealTime" value="0"/>
+    </Route>
   </Routes>
   <Playlists>
     <Playlist id="3852" name="ZynAddSubFX 1" type="midi" orig-track-id="3807" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
@@ -659,6 +847,10 @@
       <Region name="ZynAddSubFX 1-24.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="4962461" beat="111.99998784722223" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="4832" type="midi" first-edit="nothing" source-0="4830" master-source-0="4830"/>
       <Region name="ZynAddSubFX 1-25.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="5671384" beat="127.99998611111111" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="4839" type="midi" first-edit="nothing" source-0="4837" master-source-0="4837"/>
       <Region name="ZynAddSubFX 1-26.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="6380307" beat="143.999984375" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="4846" type="midi" first-edit="nothing" source-0="4844" master-source-0="4844"/>
+      <Region name="ZynAddSubFX 1-41.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="7089231" beat="160.00000520833333" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="10" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10625" type="midi" first-edit="nothing" source-0="10623" master-source-0="10623"/>
+      <Region name="ZynAddSubFX 1-42.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="7798153" beat="175.99998090277779" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10632" type="midi" first-edit="nothing" source-0="10630" master-source-0="10630"/>
+      <Region name="ZynAddSubFX 1-43.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="8507077" beat="192.00000173611113" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10639" type="midi" first-edit="nothing" source-0="10637" master-source-0="10637"/>
+      <Region name="ZynAddSubFX 1-44.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="9216000" beat="208" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="13" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10646" type="midi" first-edit="nothing" source-0="10644" master-source-0="10644"/>
     </Playlist>
     <Playlist id="4287" name="ZynAddSubFX" type="midi" orig-track-id="4242" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="ZynAddSubFX-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="708923" beat="15.999998263888889" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="4364" type="midi" first-edit="nothing" source-0="4293" master-source-0="4293"/>
@@ -670,9 +862,16 @@
       <Region name="ZynAddSubFX-24.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="4962461" beat="111.99998784722223" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="4914" type="midi" first-edit="nothing" source-0="4912" master-source-0="4912"/>
       <Region name="ZynAddSubFX-25.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="5671384" beat="127.99998611111111" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="4921" type="midi" first-edit="nothing" source-0="4919" master-source-0="4919"/>
       <Region name="ZynAddSubFX-35.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="6380307" beat="143.999984375" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="5017" type="midi" first-edit="nothing" source-0="5015" master-source-0="5015"/>
+      <Region name="ZynAddSubFX-43.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="708922" position="7089231" beat="160.00000520833333" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" tags="" contents="0" start-beats="2.2569444439568542e-05" length-beats="15.999975694444458" id="10563" type="midi" first-edit="nothing" source-0="10561" master-source-0="10561"/>
+      <Region name="ZynAddSubFX-42.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="7798154" beat="176.0000034722222" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10556" type="midi" first-edit="nothing" source-0="10554" master-source-0="10554"/>
+      <Region name="ZynAddSubFX-41.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="8507077" beat="192.00000173611113" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="10" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10549" type="midi" first-edit="nothing" source-0="10547" master-source-0="10547"/>
+      <Region name="ZynAddSubFX-40.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="9216000" beat="208" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" tags="" contents="0" start-beats="0" length-beats="15.999998263888889" id="10542" type="midi" first-edit="nothing" source-0="10540" master-source-0="10540"/>
     </Playlist>
-    <Playlist id="6884" name="Take.1" type="midi" orig-track-id="4469" pgroup-id="2021-08-26 23.38.15" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Some Melody IDK-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5659638" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="127.73489583333334" id="6893" type="midi" first-edit="nothing" source-0="6886" master-source-0="6886"/>
+    <Playlist id="7796" name="Take.2" type="midi" orig-track-id="4469" pgroup-id="2021-08-27 09.12.32" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Some Melody IDK-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7230208" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="163.18177083333333" id="7805" type="midi" first-edit="nothing" source-0="7798" master-source-0="7798"/>
+    </Playlist>
+    <Playlist id="8202" name="Wind" type="midi" orig-track-id="8157" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Wind-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="708923" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="16" id="10260" type="midi" first-edit="nothing" source-0="10258" master-source-0="10258"/>
     </Playlist>
   </Playlists>
   <UnusedPlaylists>
@@ -681,6 +880,9 @@
     </Playlist>
     <Playlist id="4514" name="ZynAddSubFX" type="midi" orig-track-id="4469" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="ZynAddSubFX-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6572908" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="148.34687500000001" id="5920" type="midi" first-edit="nothing" source-0="5622" master-source-0="5622"/>
+    </Playlist>
+    <Playlist id="6884" name="Take.1" type="midi" orig-track-id="4469" pgroup-id="2021-08-26 23.38.15" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Some Melody IDK-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5659638" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="127.73489583333334" id="6893" type="midi" first-edit="nothing" source-0="6886" master-source-0="6886"/>
     </Playlist>
   </UnusedPlaylists>
   <RouteGroups/>
@@ -751,12 +953,15 @@
       <Window name="RPM-3807" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4242" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4469" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-8157" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-3807-3885" visible="0" x-off="1474" y-off="420" x-size="1181" y-size="698" custom-ui="1"/>
       <Window name="PM-3807-3885" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-4242-4322" visible="0" x-off="1474" y-off="420" x-size="1181" y-size="698" custom-ui="1"/>
       <Window name="PM-4242-4322" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-4469-4554" visible="0" x-off="2694" y-off="677" x-size="1181" y-size="698" custom-ui="1"/>
       <Window name="PM-4469-4554" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-8157-8248" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-8157-8248" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="strip 64" visible="1">
           <Object id="processor 94">
@@ -780,11 +985,11 @@
           </Object>
           <Object id="processor 620"/>
         </Object>
-        <Object id="rtav 2060" height="84" visible="1"/>
-        <Object id="automation 2064" height="84" visible="0"/>
-        <Object id="automation 2066" height="84" visible="0"/>
-        <Object id="automation 2060 12/0/0" height="84" visible="0"/>
-        <Object id="automation 2079" height="84" visible="0"/>
+        <Object id="rtav 2060" height="252" visible="1"/>
+        <Object id="automation 2064" height="252" visible="0"/>
+        <Object id="automation 2066" height="252" visible="0"/>
+        <Object id="automation 2060 12/0/0" height="252" visible="0"/>
+        <Object id="automation 2079" height="252" visible="0"/>
         <Object id="strip 2060" visible="1">
           <Object id="processor 2090">
             <Object id="control 2064" visible="0"/>
@@ -888,9 +1093,9 @@
             <Object id="control 3081" visible="0"/>
           </Object>
         </Object>
-        <Object id="rtav 3807" height="118" visible="1" note-range-min="37" note-range-max="80" midnam-custom-device-mode="General MIDI" color-mode="MeterColors"/>
-        <Object id="automation 3811" height="84" visible="0"/>
-        <Object id="automation 3807 12/0/0" height="84" visible="0"/>
+        <Object id="rtav 3807" height="252" visible="1" note-range-min="37" note-range-max="80" midnam-custom-device-mode="General MIDI" color-mode="MeterColors"/>
+        <Object id="automation 3811" height="465" visible="1"/>
+        <Object id="automation 3807 12/0/0" height="252" visible="0"/>
         <Object id="strip 3807" visible="1">
           <Object id="processor 3837">
             <Object id="control 3811" visible="0"/>
@@ -916,15 +1121,15 @@
           <Object id="processor 3845"/>
           <Object id="processor 3844"/>
         </Object>
-        <Object id="automation 3826" height="84" visible="0"/>
+        <Object id="automation 3826" height="252" visible="0"/>
         <Object id="strip 4175" visible="1">
           <Object id="processor 4205">
             <Object id="control 4179" visible="0"/>
           </Object>
         </Object>
-        <Object id="rtav 4242" height="65" visible="1" note-range-min="13" note-range-max="55" midnam-custom-device-mode="General MIDI" color-mode="MeterColors"/>
-        <Object id="automation 4246" height="84" visible="0"/>
-        <Object id="automation 4242 12/0/0" height="84" visible="0"/>
+        <Object id="rtav 4242" height="252" visible="1" note-range-min="13" note-range-max="55" midnam-custom-device-mode="General MIDI" color-mode="MeterColors"/>
+        <Object id="automation 4246" height="252" visible="0"/>
+        <Object id="automation 4242 12/0/0" height="252" visible="0"/>
         <Object id="strip 4242" visible="1">
           <Object id="processor 4272">
             <Object id="control 4246" visible="0"/>
@@ -948,10 +1153,10 @@
             <Object id="control 4354" visible="0"/>
           </Object>
         </Object>
-        <Object id="automation 4261" height="84" visible="0"/>
-        <Object id="rtav 4469" height="458" visible="1" note-range-min="16" note-range-max="89" midnam-custom-device-mode="General MIDI" color-mode="MeterColors"/>
-        <Object id="automation 4473" height="84" visible="0"/>
-        <Object id="automation 4469 12/0/0" height="84" visible="0"/>
+        <Object id="automation 4261" height="252" visible="0"/>
+        <Object id="rtav 4469" height="702" visible="1" note-range-min="23" note-range-max="84" midnam-custom-device-mode="General MIDI" color-mode="MeterColors"/>
+        <Object id="automation 4473" height="252" visible="0"/>
+        <Object id="automation 4469 12/0/0" height="252" visible="0"/>
         <Object id="strip 4469" visible="1">
           <Object id="processor 4499">
             <Object id="control 4473" visible="0"/>
@@ -975,7 +1180,34 @@
             <Object id="control 4586" visible="0"/>
           </Object>
         </Object>
-        <Object id="automation 4488" height="84" visible="0"/>
+        <Object id="automation 4488" height="252" visible="0"/>
+        <Object id="rtav 8157" height="252" visible="1" midnam-custom-device-mode="General MIDI" color-mode="MeterColors" note-range-min="22" note-range-max="75"/>
+        <Object id="automation 8161" height="252" visible="0"/>
+        <Object id="automation 8157 12/0/0" height="252" visible="0"/>
+        <Object id="automation 8176" height="252" visible="0"/>
+        <Object id="strip 8157" visible="1">
+          <Object id="processor 8248">
+            <Object id="control 8250" visible="0"/>
+            <Object id="control 8252" visible="0"/>
+            <Object id="control 8254" visible="0"/>
+            <Object id="control 8256" visible="0"/>
+            <Object id="control 8258" visible="0"/>
+            <Object id="control 8260" visible="0"/>
+            <Object id="control 8262" visible="0"/>
+            <Object id="control 8264" visible="0"/>
+            <Object id="control 8266" visible="0"/>
+            <Object id="control 8268" visible="0"/>
+            <Object id="control 8270" visible="0"/>
+            <Object id="control 8272" visible="0"/>
+            <Object id="control 8274" visible="0"/>
+            <Object id="control 8276" visible="0"/>
+            <Object id="control 8278" visible="0"/>
+            <Object id="control 8280" visible="0"/>
+          </Object>
+          <Object id="processor 8187">
+            <Object id="control 8161" visible="0"/>
+          </Object>
+        </Object>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
